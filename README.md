@@ -1,16 +1,7 @@
 # api_list
 
-A new Flutter project.
+A Single screen App which can fetch JSON data via API Call and display data on the screen in the form of the list.
 
-## Getting Started
+## App Preview ⬇️
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/74370799/168100408-d405f0b6-9076-4ee3-b33e-86b5287ba1ee.png" width="352" height="630">
